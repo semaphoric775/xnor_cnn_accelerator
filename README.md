@@ -4,7 +4,7 @@
 
 A Verilog 2001 implementation of one stage of an all-binary convolutional neural net. The design computes the convolution of a 3x3 kernel over a 10x10, 12x12, or 16x16 matrix in parallel. Input examples are fed to the module from non-synthesized SRAMs and the outputs are written to an independent SRAM.
 
-
+![final_design](synthesized_design.PNG)
 
 ## Technical Notes
 
